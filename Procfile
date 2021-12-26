@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run NFL.py
+web: sh setup.sh && streamlit run stock_price_app.py
